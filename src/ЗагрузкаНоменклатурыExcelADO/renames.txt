@@ -1,0 +1,9 @@
+﻿2a0fd563-e55c-4c0f-81a8-a3fd1437497c-->und\2a0fd563-e55c-4c0f-81a8-a3fd1437497c
+2a0fd563-e55c-4c0f-81a8-a3fd1437497c.0-->Form\ФормаЗагрузкаНоменклатуры
+621cb799-fce5-4742-a2c7-7767f2da1c91-->und\621cb799-fce5-4742-a2c7-7767f2da1c91
+c400a862-ea73-402a-a05b-c77fbe1bd204.0\info-->und\c400a862-ea73-402a-a05b-c77fbe1bd204.0\info
+c400a862-ea73-402a-a05b-c77fbe1bd204.0\text-->ObjectModule.bsl
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
