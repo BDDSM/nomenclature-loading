@@ -4,6 +4,8 @@
 c400a862-ea73-402a-a05b-c77fbe1bd204.0\info-->und\c400a862-ea73-402a-a05b-c77fbe1bd204.0\info
 c400a862-ea73-402a-a05b-c77fbe1bd204.0\text-->ObjectModule.bsl
 copyinfo-->und\copyinfo
+fc079a3f-0b3b-4ce5-9b64-e50210455368-->und\fc079a3f-0b3b-4ce5-9b64-e50210455368
+fc079a3f-0b3b-4ce5-9b64-e50210455368.0-->Form\ФормаРедактированияВыражения
 root-->und\root
 version-->und\version
 versions-->und\versions

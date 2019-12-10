@@ -1002,7 +1002,7 @@
 {8,
 {17,
 {1,1,
-{"ru","Наименование"}
+{"ru","Имя реквизита"}
 },
 {1,0},
 {1,0},1e2,2,1,-1,-1,12590592,
@@ -1032,7 +1032,7 @@
 },
 {7,3,0,1,100},
 {7,3,0,1,100},
-{7,3,0,1,100},1,0,0,4,0,"Наименование",
+{7,3,0,1,100},1,0,0,4,0,"ИмяРеквизита",
 {},-1,0,
 {1,0},
 {"Pattern",
@@ -1996,7 +1996,7 @@ R743},0},0,0,0},
 {8,
 {17,
 {1,1,
-{"ru","Наименование"}
+{"ru","Имя реквизита"}
 },
 {1,0},
 {1,0},151.0000000000001,1,1,-1,-1,12590594,
@@ -2026,7 +2026,7 @@ R743},0},0,0,0},
 },
 {7,3,0,1,100},
 {7,3,0,1,100},
-{7,3,0,1,100},1,0,0,4,0,"Наименование",
+{7,3,0,1,100},1,0,0,4,0,"ИмяРеквизита",
 {},22,0,
 {1,0},
 {"Pattern",
@@ -2195,11 +2195,14 @@ JhUZpfPTTbWeFbkMjDSexjf/Ag==},0},0,0,0},
 {"S"}
 },0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNjVA7DsIwDIW1Ui/hOZHspG2SWyAhDlCgKwPqVuVk
-DByJmY3E7kcUhIgt2e/ZiZ/z3G74PG73IaiyGGDX9n13vQCDPcSyiDkVp0ZRRlZV
-OeBUXWOnrMLUSogxJX/c+MQ2B+3WhKGFYS2afJ6RjFlSKDDNFtKiYFHEJmiySiTC
-AeIcAd6aEj12Idc0Zc91kEs/qvMLX0QuRo1zzlCt5v14u9C6prJnoyl0QVd1Z7T3
-wWrj8XgKFOo2OJm/3gBlB/7R8UUeSiJGJMQX},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcN3VO9TsMwEGZgqtR3iDzbkv/in7dAQkxMaZqVoSpT
+FYmyMLCxI14hMBUq2ldwnoRXwPalSQhVlYWFnKW77+583511uT4/i9/Xdr+yeDpZ
+oYtsuSwWNyiCS1ROJ2Uw4TCFWUACy6DoITrEGgtMfSqjtPTGiBu/sQiK6KGDs84T
+eyHMBA4v0cswBei5wSkoYOgoCqCDSGgRXaGy1Qj9SPLuJovGGGHhhDiCSyeibYUj
+TXbClNaasxS388XpbKaVFHNOmC0skWnBiTFWEG7oLLfMppnVwD+cgMIM8UX7FTku
+mLI8zzlRNJ35miIlRs7nvqaUlAujpcrhgZF7dlW9ru/rO7dz7+7DbdyLtzb12tvV
+iOiD11vve6of3avb+cwKQSt/WTsOiha36BhL4vZdocR9jog3TIl761F1r/qf6U6v
+Pe1tWLNn8Nu0S15+Aw==},0},0,0,0},
 {0,43dd9855-a391-45d2-b0cd-14e13a3570bc},
 {-1},
 {-1}
@@ -2811,7 +2814,7 @@ wWrj8XgKFOo2OJm/3gBlB/7R8UUeSiJGJMQX},0},0,0,0},
 },0,0,0,"",0,
 {3,0,0,100,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,0,0,0,0,0},
 {0},0,0,0,1},0,1,
-{3,0,20,100,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"ru",0,1,
+{3,0,20,100,1,1,0,1,1,0,0,0,0,0,0,0,0,0,315,0,0,"ru",0,1,
 {3,0,20,0,20,00000000-0000-0000-0000-000000000000},0,0,0,0,0},1,1,
 {1,
 {0,e1692cc2-605b-4535-84dd-28440238746c,
@@ -3362,7 +3365,7 @@ wWrj8XgKFOo2OJm/3gBlB/7R8UUeSiJGJMQX},0},0,0,0},
 {0}
 }
 }
-},900,600,1,0,1,4,4,183,900,600,96},
+},900,600,1,0,1,4,4,203,900,600,96},
 {
 {1},25,
 {6,
